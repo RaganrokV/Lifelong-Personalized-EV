@@ -18,6 +18,6 @@ This work bridges **AI, electrochemistry, and transportation systems engineering
 
 # How to start?
 
-#### 1. please download our pre-trained model on [OneDrive](https://1drv.ms/u/c/284956e407934917/EW_79LiVimRHvlc6Ne1Zi1EBV_90rNBWObv05X33l7ZJTw)
+#### 1. please download our pre-trained model（about 350mb） on [OneDrive](https://1drv.ms/u/c/284956e407934917/EUL6iqJz8PFAh2ShDRldtJgB6rSxCD-IHRdQPFN64tJC_Q?e=NJu8aX)
 #### 2. Then, loading a pre-trained model with the code：40-47 （choose what you like）
 #### 3. Start your own lifelong learning！
